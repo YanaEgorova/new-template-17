@@ -67,7 +67,6 @@
     border: none;
     padding: 1rem;
     font-size: 1.8rem;
-    border: none;
     background-color: rgba(255, 255, 255, .7);
     border-radius: 1rem;
     border: .3rem solid var(--sub-text-color);
@@ -76,8 +75,9 @@
     width: 100%;
     display: block;
     margin-top: 0.5rem;
-    border: none;
-    background: none;
+    background-color: rgba(255, 255, 255, .7);
+    border-radius: 1rem;
+    border: .3rem solid var(--sub-text-color);
     padding: 1rem;
     font-size: 1.8rem;
 }
